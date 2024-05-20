@@ -1,0 +1,10 @@
+.row{
+	display:flex;
+	justify-content:space-around;
+}
+
+img{
+	height:300px;
+	width:95%;
+	margin-bottom:25px;
+}
